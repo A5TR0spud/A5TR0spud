@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<p><img src="a.png"> Discord: astro.spud</p>
+<p><img src="a.png"> they/them</p>
+
 <!--
 **A5TR0spud/A5TR0spud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
