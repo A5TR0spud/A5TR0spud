@@ -1,9 +1,5 @@
-<div style="display: flex; align-items: center;">
-    <img src="a.png"><span style="margin:0 0 0 5px;">Ahoy there!</span>
-</div>
-<div style="display: flex; align-items: center;">
-    <img src="a.png"><span style="margin:0 0 0 5px;">Discord: astro.spud</span>
-</div>
-<div style="display: flex; align-items: center;">
-    <img src="a.png"><span style="margin:0 0 0 5px;">they/them</span>
+<div style="display: grid; align-items: center; gap: 5px; grid-template-columns: 16px auto; padding-top: 5px;">
+    <img src="a.png"><span style="margin:0;">Ahoy there!</span>
+    <img src="a.png"><span style="margin:0;">Discord: astro.spud</span>
+    <img src="a.png"><span style="margin:0;">they/them</span>
 </div>
