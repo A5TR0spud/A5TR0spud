@@ -1,2 +1,3 @@
-<p style="margin:5px;"><img src="a.png"> Discord: astro.spud</p>
-<p style="margin:5px;"><img src="a.png"> they/them</p>
+<p><img src="a.png"> Ahoy!</p>
+<p>Discord: astro.spud</p>
+<p>Pronouns: they/them</p>
